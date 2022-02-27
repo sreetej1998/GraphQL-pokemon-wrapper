@@ -1,2 +1,4 @@
 # GraphQL Practice playground
-Wrapping an existing 3 rd Party Pokemon API with GraphQL
+Wrapping an existing 3 rd Party Pokemon API with GraphQL.
+
+TODO: app
