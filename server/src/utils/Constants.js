@@ -1,0 +1,1 @@
+export const REQUIRED_POKEMON_ATTRIBUTES = ["id", "height", "weight", "name"];
